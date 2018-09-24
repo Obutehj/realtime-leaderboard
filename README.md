@@ -1,6 +1,6 @@
 # Realtime Leaderboard
 
-Demo of a realtime game leaderboard built with Pusher Channels and Preact. Tutorial:
+Demo of a realtime game leaderboard built with Pusher Channels and Preact. Tutorial: https://pusher.com/tutorials/live-leaderboard-preact
 
 ## Getting Started
 
